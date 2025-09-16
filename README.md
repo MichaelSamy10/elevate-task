@@ -13,3 +13,4 @@ then to run project locally:
 **npm run dev**
 
 then app will be available at http://localhost:5173/
+
