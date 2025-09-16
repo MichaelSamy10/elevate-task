@@ -18,7 +18,6 @@ const CreatePost = () => {
     setTitle("");
     setBody("");
     toast.success("A new post has been successfully created!");
-    setTimeout(() => (window.location.href = "/"), 4000);
   };
 
   return (
