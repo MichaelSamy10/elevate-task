@@ -9,7 +9,7 @@ import { ToastContainer } from "react-toastify";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/elevate-task">
       <div className="hero">
         <Navbar />
         <Routes>
@@ -19,7 +19,7 @@ function App() {
         </Routes>
         <ToastContainer
           position="bottom-right"
-          autoClose={false}
+          autoClose={3000}
           closeOnClick
           pauseOnHover
         />
