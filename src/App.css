@@ -1,0 +1,6 @@
+.hero {
+  background-image: url("/images/Hero.jpg");
+  background-size: cover;
+  /* height: 100vh; */
+  padding: 16px 0;
+}

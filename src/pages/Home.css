@@ -1,0 +1,18 @@
+.posts-header {
+  /* padding: 18px 16px; */
+  border-radius: 15px;
+  width: 1200px;
+}
+
+.post-brand span {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.create-post {
+  color: #000000;
+}
+.create-post span {
+  font-weight: 400;
+  font-size: 16px;
+}

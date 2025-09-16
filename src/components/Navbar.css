@@ -1,0 +1,17 @@
+.navbar {
+  background-color: #ffffff80;
+  border: 2px solid transparent;
+  border-radius: 15px;
+  padding: 16px 24px;
+  width: 1200px;
+}
+
+.navbar div span {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.navbar div h2 {
+  font-size: 24px;
+  font-weight: 600;
+}
